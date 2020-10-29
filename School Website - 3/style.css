@@ -1,0 +1,92 @@
+body 
+{
+    color: greenyellow;
+    background-image: url(school.png);
+
+}
+
+h1
+{
+    padding-left: 500px;
+    color: red;
+    font-size: 30px;
+    font-family: cursive;
+    float: left
+}
+
+.marqueeStyle 
+{
+    font-size: 40px;
+}
+
+p 
+{
+    color: black;
+}
+
+iframe
+{
+    width: 100%;
+}
+
+.campus_mainDiv 
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 200px;
+    float: center;
+    font-size: 20px;
+}
+
+.campus_mainDiv img 
+{
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+.campus_mainDiv hr 
+{
+    width: 230px;
+}
+
+.campus_mainDiv h4 
+{
+    text-align: center;
+}
+
+.movie_head 
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i 
+{
+    float: right;
+}
+
+.WN_li 
+{
+    margin-top: 13px;
+}
+
+.WN_li h4 
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.WN_li img 
+{
+ border-radius: 25px;   
+}
+
+.WN_li p 
+{
+   margin-top: 10px; 
+}
